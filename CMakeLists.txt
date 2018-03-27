@@ -3,4 +3,4 @@ project(hello_clang C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(hello_clang main.c)
+add_executable(hello_clang main.c demo/FileReader.c)

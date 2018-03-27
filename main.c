@@ -35,7 +35,7 @@ void test_logic_operator();
 void test_pointer_operation();
 
 
-void main() {
+void test() {
     test_variable_length();
 
     test_const_variable();
